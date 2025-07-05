@@ -1,5 +1,5 @@
 TrafficTelligence: Advanced Traffic Volume Estimation with Machine Learning
-
+1.Introduction
 Urban traffic congestion is a critical issue in modern cities, causing delays, increasing pollution, and reducing the quality of life. TrafficTelligence is an intelligent system that leverages machine learning algorithms to predict traffic volume based on historical data and environmental conditions. This predictive capability supports smarter urban planning, adaptive traffic control, and better infrastructure management.
 
 2.Project Objective
